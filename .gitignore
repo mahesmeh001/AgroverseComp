@@ -1,0 +1,8 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore large data files
+data/*.npz
+data/*
+!data/.gitkeep
