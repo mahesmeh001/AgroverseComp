@@ -7,7 +7,7 @@
     <list default="true" id="9847723f-22c0-4a3c-8834-b84d398ce392" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lstm_1.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_1.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sol2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sol2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trajectory_visualization_lstm1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/trajectory_visualization_lstm1.gif" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,19 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -96,6 +96,9 @@
       <workItem from="1743638167208" duration="2560000" />
       <workItem from="1743900045422" duration="10000" />
       <workItem from="1745185353440" duration="303000" />
+      <workItem from="1745437451469" duration="6384000" />
+      <workItem from="1745533185677" duration="13000" />
+      <workItem from="1746206952964" duration="4420000" />
     </task>
     <servers />
   </component>
