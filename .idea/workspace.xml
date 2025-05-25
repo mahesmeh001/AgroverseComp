@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9847723f-22c0-4a3c-8834-b84d398ce392" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Project_Milestone_Public/visualize_training_loss.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lstm2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lstm_1_mse8.8.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lstm_single_step_prediction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lstm1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lstm_1.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_1.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lstm_submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_submission.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trajectory_visualization_lstm1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/trajectory_visualization_lstm1.gif" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +103,12 @@
       <workItem from="1745185353440" duration="303000" />
       <workItem from="1745437451469" duration="6384000" />
       <workItem from="1745533185677" duration="13000" />
-      <workItem from="1746206952964" duration="13335000" />
+      <workItem from="1746206952964" duration="19617000" />
+      <workItem from="1746640228812" duration="1205000" />
+      <workItem from="1747259903859" duration="6838000" />
+      <workItem from="1747332999403" duration="2537000" />
+      <workItem from="1748102502126" duration="9588000" />
+      <workItem from="1748123960086" duration="33523000" />
     </task>
     <servers />
   </component>
