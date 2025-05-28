@@ -7,6 +7,7 @@
     <list default="true" id="9847723f-22c0-4a3c-8834-b84d398ce392" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project_Milestone_Public/visualize_training_loss.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Milestone_Public/visualize_training_loss.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lstm2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lstm_single_step.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_single_step.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lstm_single_step_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_single_step_prediction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trajectory_visualization_lstm_single_step.gif" beforeDir="false" afterPath="$PROJECT_DIR$/trajectory_visualization_lstm_single_step.gif" afterDir="false" />
@@ -106,7 +107,8 @@
       <workItem from="1748102502126" duration="9588000" />
       <workItem from="1748123960086" duration="34918000" />
       <workItem from="1748246635005" duration="7872000" />
-      <workItem from="1748393690245" duration="11577000" />
+      <workItem from="1748393690245" duration="26271000" />
+      <workItem from="1748459061872" duration="4090000" />
     </task>
     <servers />
   </component>
