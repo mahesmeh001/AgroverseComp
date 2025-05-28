@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9847723f-22c0-4a3c-8834-b84d398ce392" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lstm_2_.02val.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AgroverseComp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AgroverseComp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_Milestone_Public/visualize_training_loss.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Milestone_Public/visualize_training_loss.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lstm2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lstm_single_step.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_single_step.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lstm_single_step_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_single_step_prediction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trajectory_visualization_lstm_single_step.gif" beforeDir="false" afterPath="$PROJECT_DIR$/trajectory_visualization_lstm_single_step.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lstm_2.pkl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PythonContentEntriesConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -108,7 +109,10 @@
       <workItem from="1748123960086" duration="34918000" />
       <workItem from="1748246635005" duration="7872000" />
       <workItem from="1748393690245" duration="26271000" />
-      <workItem from="1748459061872" duration="4090000" />
+      <workItem from="1748459061872" duration="6934000" />
+      <workItem from="1748471184634" duration="107000" />
+      <workItem from="1748471317570" duration="1788000" />
+      <workItem from="1748475018891" duration="1256000" />
     </task>
     <servers />
   </component>
