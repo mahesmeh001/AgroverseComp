@@ -6,3 +6,4 @@ venv/
 data/*.npz
 data/*
 !data/.gitkeep
+augmented_train.pkl
