@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9847723f-22c0-4a3c-8834-b84d398ce392" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lstm1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lstm_attention.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_attention.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lstm_social.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_social.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
