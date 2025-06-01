@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9847723f-22c0-4a3c-8834-b84d398ce392" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lstm_attention_social.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeky.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Milestone_Public/training_metrics.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Milestone_Public/training_metrics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Milestone_Public/visualize_training_loss.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Milestone_Public/visualize_training_loss.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lstm_attention_social.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_attention_social.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lstm_social_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lstm_social_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trajectory_visualization_lstmsocial.gif" beforeDir="false" afterPath="$PROJECT_DIR$/trajectory_visualization_lstmsocial.gif" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +119,8 @@
       <workItem from="1748471184634" duration="107000" />
       <workItem from="1748471317570" duration="1788000" />
       <workItem from="1748475018891" duration="18543000" />
-      <workItem from="1748715173713" duration="4592000" />
+      <workItem from="1748715173713" duration="5681000" />
+      <workItem from="1748732971914" duration="24620000" />
     </task>
     <servers />
   </component>
